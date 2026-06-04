@@ -20,7 +20,7 @@
 
 I am an aspiring Data Engineer passionate about cloud computing, data pipelines, databases, analytics, and artificial intelligence.
 
-I am currently building hands-on experience through AWS re/Start, CAPACITI AI Digital Skills, cloud simulations, and personal projects focused on SQL, Python, ETL, and data engineering.
+I am currently building hands-on experience through AWS re/Start, and personal projects focused on SQL, Python, ETL, and data engineering.
 
 My goal is to grow into a cloud-focused Data Engineer who can build reliable data solutions that transform raw data into meaningful insights.
 
