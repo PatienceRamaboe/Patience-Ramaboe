@@ -88,7 +88,7 @@ AI-powered productivity assistant built to support workplace tasks such as email
 ### Excel ETL Pipeline Project
 Data cleaning and transformation project focused on extracting, transforming, and preparing Excel-based data for analysis.
 
-### Grand Cru Coffee & Smoothies Website
+### Grand Co Coffee & Smoothies Website
 Responsive website built with HTML, CSS, and JavaScript, including menu filtering, cart functionality, and booking features.
 
 ### Data Warehouse Project
@@ -114,7 +114,7 @@ SQL practice and portfolio projects focused on queries, joins, aggregations, dat
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,python,git,github,vscode" />
 </p>
----
+
 
 ## Connect
 
