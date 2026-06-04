@@ -102,16 +102,18 @@ SQL practice and portfolio projects focused on queries, joins, aggregations, dat
 
 ---
 
-## GitHub Stats
+## Cloud & Data Engineering Journey
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PatienceRamaboe&show_icons=true&theme=github_dark&hide_border=true" />
+  <img src="https://img.shields.io/badge/AWS-Cloud%20Computing-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Engineering-005571?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatienceRamaboe&layout=compact&theme=github_dark&hide_border=true" />
+  <img src="https://skillicons.dev/icons?i=aws,python,git,github,vscode" />
 </p>
-
 ---
 
 ## Connect
